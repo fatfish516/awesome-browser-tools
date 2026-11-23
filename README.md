@@ -251,6 +251,7 @@ This README currently includes **285 ToolsFam tools** grouped by category. For t
 - [Compress Image to 200KB](https://toolsfam.com/tools/compress-image-to-200kb) - Reduce an image toward a 200KB target.
 - [Compress Image to 500KB](https://toolsfam.com/tools/compress-image-to-500kb) - Reduce an image toward a 500KB target.
 - [Crop Image](https://toolsfam.com/tools/crop-image) - Crop images by pixel area for thumbnails and previews.
+- [GifKit](https://gifkit.net/) - Browser-based GIF tools for compression, cropping, speed changes, frame extraction, and typing-text GIFs. Files stay in the browser and no signup is required.
 
 ## SEO & Web Tools
 
